@@ -1,1 +1,4 @@
-https://testautomationu.applitools.com/postman-tutorial/
+https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/
+- Importance of service API testing
+- You need to test your service APIs and your SAPIs should have their own thorough test cycles. You may expand your application into a service API. Or, you may consume someone else’s service API. In order to guarantee the behavior of your own service API and to ensure that your application, which depends on a third-party service API, behaves as expected, learn to test your service APIs.
+- This will improve the quality of your services through test automation.
